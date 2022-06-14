@@ -1,0 +1,67 @@
+body {
+    font-fvideoy: sans-serif;
+}
+
+.image-bar {
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+
+.form-search {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+/*Services Product*/
+
+#services-content {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: silver;
+    background-image: url(../images/home/wallpaper.png);
+}
+
+.title-services {
+    font-fvideoy: 'Benton Sans Comp Black';
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.title-services span {
+    color: #F58634;
+}
+
+.row-services {
+    margin-bottom: 2%;
+}
+
+
+/*Footer*/
+
+.footer-dark {
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32;
+}
+
+.footer-dark h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-dark ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+}

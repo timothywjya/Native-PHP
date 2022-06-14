@@ -1,0 +1,111 @@
+body {
+    font-fvideoy: sans-serif;
+}
+
+.image-bar {
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+
+.form-search {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+/*Content Home*/
+
+.desc-home {
+    font-fvideoy: 'Benton Sans Comp Black';
+}
+
+.content-desc,
+.content-title,
+.list-about {
+    color: white;
+}
+
+#content-home {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding-top: 3%;
+    aspect-ratio: 16 / 9;
+    box-shadow: 4px 4px 4px 4px #888888;
+    padding-bottom: 2%;
+    background-image: url(../images/home/Wallpaper.png);
+}
+
+.title-video {
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+#video-youtube {
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    aspect-ratio: 16 / 9;
+}
+
+.doggo {
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    display: block;
+}
+
+.content-title {
+    padding-top: 35%;
+}
+
+.petshop,
+.petvideo {
+    color: #F58634;
+}
+
+.iframe-responsive {
+    position: relative;
+    padding-top: 2%;
+    margin: auto;
+    border: none;
+}
+
+.youtube-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 5%;
+    margin-top: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    aspect-ratio: 16 / 9;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+/*Footer*/
+
+.footer-dark {
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32;
+}
+
+.footer-dark h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-dark ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+}

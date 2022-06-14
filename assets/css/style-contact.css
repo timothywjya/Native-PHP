@@ -1,0 +1,124 @@
+body {
+    font-fvideoy: sans-serif;
+    background-image: url(../images/home/wallpaper.png);
+}
+
+.image-bar {
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+
+.form-search {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+/*Services Product*/
+
+#contact-content {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#iframe-map {
+    text-align: center;
+}
+
+.container-iframe {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 5%;
+}
+
+.responsive-iframe {
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 80%;
+    height: 80%;
+    border: none;
+}
+
+#detail-contact {
+    padding-top: 5%;
+}
+
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.description,
+.description2,
+.desc1,
+.desc2,
+.text-media {
+    text-align: center;
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.description,
+.description2 {
+    font-size: 20pt;
+}
+
+.information,
+.social-media {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.desc1,
+.desc2 {
+    padding-top: 3%;
+}
+
+#title-contact {
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+}
+
+#detail-contact {
+    margin-bottom: 2%;
+}
+
+
+/*Footer*/
+
+.footer-dark {
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32;
+}
+
+.footer-dark h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-dark ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+}
